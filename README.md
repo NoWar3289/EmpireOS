@@ -7,7 +7,7 @@ EmpireOS is a lightweight and user-friendly operating system user interface (UI)
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/NoWar3289/empireos.git
+   git clone https://github.com/manisharavindh/empireos.git
    ```
 
 2. **Install dependencies:**
